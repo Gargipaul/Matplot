@@ -8,9 +8,7 @@ A scatter plot that shows how the number of metastatic (cancer spreading) sites 
 A scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 A bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-## Observations from the study:
-
-Of the 5 drugs tested, Capomulin was the best candidate with a significant drop in the tumor volume. Its effect was evident from the very first day with a gradual decrease in tumor volume. Administration of Infubinol, Ketapril, and Placebo, on the other hand, showed similar response for the first 10 days, after which, promoted significant cell proliferation leading to increase in the mean tumor volume. (Refer: Plot 1).
+## Observations from the study:Of the 5 drugs tested, Capomulin was the best candidate with a significant drop in the tumor volume. Its effect was evident from the very first day with a gradual decrease in tumor volume. Administration of Infubinol, Ketapril, and Placebo, on the other hand, showed similar response for the first 10 days, after which, promoted significant cell proliferation leading to increase in the mean tumor volume. (Refer: Plot 1).
 
 An anti-cancer agent should effectively control metastasis, i.e., spread of tumor to different body sites. While none of the drugs could completely stop metastatis, Capomulin outperformed all drugs in controlling the spread, followed by Infubinol. Placebo and Ketapril showed similar and very poor response by the end of 45th day.(Refer: Plot 2)
 
