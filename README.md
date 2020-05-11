@@ -13,7 +13,6 @@ A bar graph that compares the total % tumor volume change for each drug across t
 Of the 5 drugs tested, Capomulin was the best candidate with a significant drop in the tumor volume. Its effect was evident from the very first day with a gradual decrease in tumor volume. Administration of Infubinol, Ketapril, and Placebo, on the other hand, showed similar response for the first 10 days, after which, promoted significant cell proliferation leading to increase in the mean tumor volume. (Refer: Plot 1).
 
 An anti-cancer agent should effectively control metastasis, i.e., spread of tumor to different body sites. While none of the drugs could completely stop metastatis, Capomulin outperformed all drugs in controlling the spread, followed by Infubinol. Placebo and Ketapril showed similar and very poor response by the end of 45th day.(Refer: Plot 2)  
-
 Survival rate of mice was highest (~85%) with Capomulin treatment, followed by Ketapril and Placebo with almost similar survival rate (~43%), Lowest rate of survival was seen for mice treatment with Infubinol.(Refer: Plot 3)
 
 Thus, Capomulin is the best drug candidate that outperformed other drugs in all metrics. Tumor volume decreased by ~20% with the administration of Capomulin, while for the rest, tumor volume increased by more than 40% in the 45 days treatment regime.
